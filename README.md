@@ -1,5 +1,5 @@
 - Hello, I’m Jam ...
-- Jamie ..
+- Jamie .
 - Jamie Edie ...
 
 <!---
