@@ -1,4 +1,4 @@
-- Hello, I’m Jam .
+- Hello, I’m Jam 
 - Jamie 
 - Jamie Edie .
 
